@@ -30,6 +30,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PYTHON FLFASK](https://telegram.me/pythonflask)
 - [GRUPY-DF](https://telegram.me/grupydf)
 - [PYCODING](https://telegram.me/PyCoding)
+- [Snake Coding :snake:](https://telegram.me/SnakeCoding)
 
 ### JAVASCRIPT
 
@@ -38,10 +39,12 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [NODEBR](https://telegram.me/NodeBR)
 - [VUEJS BRASIL](https://telegram.me/vuejsbrasil)
 - [Node.js BRASIL](https://telegram.me/NodejsBR)
+- [ElectronJS Brasil](https://telegram.me/electronJs_BR)
 
 ### HYBRID MOBILE
 - [IONIC 2](https://telegram.me/joinchat/BmoycwgXZ9O0qhd0J0oACg)
 - [CORDOVA DEVELOPERS](https://telegram.me/devcordova)
+- [IONIC Brasil](https://telegram.me/ionicbrasil)
 
 ### GO
 - [GO BR](https://telegram.me/go_br)
@@ -58,6 +61,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [SAMBA4 BR](https://telegram.me/Samba4BR)
 - [LINUX BRAZUCA](https://telegram.me/joinchat/Aguf-Duk8yp2vI7hNywbHQ)
 - [ARCH LINUX BRASIL](https://telegram.me/joinchat/Ca-T5j01ENns1TC7Dpaimw)
+- [Familia GNU/Linux :heart:](https://telegram.me/familialinux)
 
 ### DEV GERAL
 - [REGEX](https://telegram.me/joinchat/BtO01j1rBi16tGTsHJ2CuQ )
@@ -70,8 +74,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### RUBY
 - [RUBY BRASIL](https://telegram.me/rubybrasil)
 
-### C
+### C/C++
 - [C'USERS (PROGRAMAÇÃO EM C)](https://telegram.me/joinchat/B9C6HQLFGOwlCUTSJdaE7A)
+- [C/C++ Brazil](https://telegram.me/cppbrazil)
 
 ### REACT.JS
 - [React.Js](https://telegram.me/reactjs_br)
@@ -150,8 +155,9 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 ### JOBS
 - [GRUPO DE OFERTA DE EMPREGOS EM TI](https://telegram.me/vagastibr)
 - [COMPRA/VENDA/TROCA/SERVIÇOS DE TI](https://telegram.me/compravendatrocati)
+- [Freelancer Web](https://telegram.me/freelancerweb)
 
-### OUTROS 
+### OUTROS
 - [EDUCAÇÃO E TECNOLOGIA (https://telegram.me/educacao_e_tecnologia)
 - [OPERAÇÃO PEGA LEÃO (ebay)](https://telegram.me/OperacaoPegaLeao )
 - [BITCOIN BRASIL](https://telegram.me/brasilbitcoin )
@@ -173,15 +179,18 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [PROMOÇÕES](https://telegram.me/on_sale)
 - [TELEGRAM BR](https://telegram.me/tlgrm_br)
 - [GUIA DO FRONTEND](https://telegram.me/guiadofrontend)
-- [PACKTPUB (dica do @romulomourao)](https://telegram.me/FreePacktPubDaily) 
+- [PACKTPUB (dica do @romulomourao)](https://telegram.me/FreePacktPubDaily)
 - [PACKTPUB2](https://telegram.me/packtpub)
 - [Receitas e Cia](https://telegram.me/comidaecia)
+- [Canais/ Grupos - TI](https://telegram.me/grupos_ti)
+- [Mundo JS](https://telegram.me/mundoJS)
+- [Canal Hacking and Pentest](https://telegram.me/hackinginf0)
 
 
 ## IOT
 - [IOT BRASIL](https://telegram.me/iotbrasil)
 
-## BOTS 
+## BOTS
 - [HACKER NEWS BOT](http://telegram.me/hnbot)
 
 ## Mas cadê meu grupo?
