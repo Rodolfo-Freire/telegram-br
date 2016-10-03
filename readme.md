@@ -141,6 +141,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 - [ENTERPRISE SECURITY](https://telegram.me/enterprisesecurity)
 - [FORTINET BRASIL](https://telegram.me/fortinetbr)
 - [SECUTIRY CAST](http://bit.ly/securitycast)
+- [Hacking and Pentest](https://telegram.me/hackinginfo)
 
 ### DATABASE
 - [DBA BRASIL](https://telegram.me/joinchat/BSo6ET1rO4Ba2eSOHyMhGg)
